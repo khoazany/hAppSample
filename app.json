@@ -1,0 +1,14 @@
+{
+  "name": "hApp Sample",
+  "description": "A Holochain app",
+  "authors": [
+    {
+      "identifier": "Zany K <khoa.zany@gmail.com>",
+      "public_key_source": "",
+      "signature": ""
+    }
+  ],
+  "version": "0.1.0",
+  "dht": {},
+  "properties": null
+}
